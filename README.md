@@ -1,6 +1,6 @@
 # Readme
 
-# Requirements
+## Requirements
 ```
 tensorflow
 numpy
@@ -17,7 +17,7 @@ monotonic-nn
             
             --main_bbo_discrete_search.py 
 ```
-1. The `util.py` file provides various utility functions for your project. Here is a summary of each function:
+1. The `util.py` file provides various utility functions for the project. Here is a summary of each function:
 
 - `is_concave(f)`: Checks if the function `f` is concave based on its values.
 - `is_convex(f)`: Checks if the function `f` is convex based on its values.
